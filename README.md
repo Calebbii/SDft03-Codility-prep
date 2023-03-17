@@ -4,6 +4,7 @@
 
 
 ## BDD
+```
  Feature: Find the shortest word in an array
 
    Scenario: Array contains multiple words
@@ -12,6 +13,7 @@
        | apple | pear  | banana|
      When the shortest word is found
     Then the result should be "pear"
+```
 
 ## Pseudocode
 
