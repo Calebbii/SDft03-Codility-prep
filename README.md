@@ -12,7 +12,7 @@ Writing a function Named nextdistinct that receives one integer Y (0 ≤ Y ≤ 1
 
 ## Pseudocode
 
-
+```
    BEGIN
      SET shortestWord to null
      FOR each word in the array
@@ -22,4 +22,4 @@ Writing a function Named nextdistinct that receives one integer Y (0 ≤ Y ≤ 1
      END FOR
      RETURN shortestWord
    END
-
+```
